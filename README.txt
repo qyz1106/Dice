@@ -1,0 +1,1 @@
+This program is for rolling a dice.
