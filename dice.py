@@ -1,3 +1,4 @@
+#! /usr/bin/env
 import random
 
 def int_input(rnum):
