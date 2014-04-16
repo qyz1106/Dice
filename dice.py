@@ -9,3 +9,8 @@ def int_input(rnum):
 		temp = temp + 1
 	return rnum
 print int_input([])
+
+#Ask user how many dices
+#Ask them how many sides
+#Randomize each dice
+#Tell users the result
